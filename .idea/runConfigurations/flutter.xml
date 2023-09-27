@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="flutter" type="DartTestRunConfigurationType" factoryName="Dart Test" singleton="false">
+    <method v="2" />
+  </configuration>
+</component>
